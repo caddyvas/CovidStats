@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Covid Tracker</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_title">COVID TRACKER</string>
+    <string name="splash_loading">LOADING . . .</string>
+
+    <!-- Main Screen Texts -->
+    <string name="screen_title">COVID-19 STATISTICS</string>
+    <string name="select_country">SELECT COUNTRY</string>
+    <string name="select_one">SELECT ONE</string>
+    <string name="confirmed_cases"><font fgcolor="#308BE5">CONFIRMED CASES:</font></string>
+    <string name="recovered_cases"><font fgcolor="#55C35A">RECOVERED CASES:</font></string>
+    <string name="fatal_cases"><font fgcolor="#DF3939">FATAL CASES:</font></string>
+    <string name="global_cases">GLOBAL CASES</string>
+    <string name="show_fatalcase">Show Fatal Cases</string>
+    <string name="hide_fatalcase">Hide Fatal Cases</string>
+    <string name="countrywise_button">VIEW MORE</string>
+    <string name="pull_down_refresh">Swipe down to refresh page</string>
+    <string name="country_spinner_txt">Country</string>
+    <string name="confirmed_cases_spinner_txt">Confirmed Cases</string>
+    <string name="about_content">Covid Tracker gives you latest data on the number of COVID-19 cases across the globe.
+        You can view more on country wise cases by selecting any country from drop down list.
+        Currently, country wise data is available only for USA, Canada and India.
+    \n\nStay positive during this unfortunate crisis</string>
+    <string name="no_internet">Internet is not available. Please try again with active internet connection!</string>
+
+    <!-- Country wise screen -->
+    <string name="edt_hint_province">Search Province</string>
+    <string name="edt_hint_state">Search State</string>
+</resources>
